@@ -1,0 +1,16 @@
+body
+{
+  background-color : rgb(50, 53, 199); 
+}
+
+#div1 {
+     background-color: rgb(152, 40, 40); 
+    width:45% ;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    border: 1px solid rgb(98, 98, 198);
+}
+.d2{
+  background-image: url(../imgs/Master\ of\ Business\ Information\ Systems.jpg);
+}
